@@ -7,11 +7,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-import org.mockito.stubbing.OngoingStubbing;
 
 import co.ceiba.domain.Person;
-import co.ceiba.service.EmailService;
-import co.ceiba.service.NotifyPersonService;
 import co.test.testDataBuilder.PersonTestDataBuilder;
 
 /**
